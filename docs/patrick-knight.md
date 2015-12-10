@@ -5,3 +5,4 @@
 * **Favorite food**: Donuts
 * **Hobby**: Editing Wikipedia
 * **Favorite color**: Blue
+* **Favorite Linux distro**: Debian
